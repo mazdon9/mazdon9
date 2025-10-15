@@ -82,11 +82,13 @@ A self-taught mobile developer passionate about building clean, responsive apps 
 <!--Pinned Projects Section-->
 <h2 align="center">📌 ᴍʏ ꜰᴇᴀᴛᴜʀᴇᴅ ᴘʀᴏᴊᴇᴄᴛꜱ 📦</h2>
 
+
 <p align="center">
   <!-- Project 1 -->
   <a href="https://github.com/mazdon9/Groceries_App_UI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mazdon9&repo=Groceries_App_UI&theme=nightowl&bg_color=220a28&title_color=c56a90&text_color=ffffff&hide_border=false" alt="Groceries App UI" />
   </a>
+
   <!-- Project 2 -->
   <a href="https://github.com/mazdon9/Crypto-Exchange-App-Mobile">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mazdon9&repo=Crypto-Exchange-App-Mobile&theme=nightowl&bg_color=220a28&title_color=c56a90&text_color=ffffff&hide_border=false" alt="Crypto Exchange App" />
@@ -95,12 +97,13 @@ A self-taught mobile developer passionate about building clean, responsive apps 
 
 <p align="center">
   <!-- Project 3 -->
-  <a href="https://github.com/mazdon9/Portfolio_Flutter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mazdon9&repo=Portfolio_Flutter&theme=nightowl&bg_color=220a28&title_color=c56a90&text_color=ffffff&hide_border=false" alt="Portfolio Flutter" />
+  <a href="https://github.com/mazdon9/ecommerce-mobile-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mazdon9&repo=ecommerce-mobile-app&theme=nightowl&bg_color=220a28&title_color=c56a90&text_color=ffffff&hide_border=false" alt="E-commerce Mobile App" />
   </a>
+
   <!-- Project 4 -->
-  <a href="https://github.com/mazdon9/MovieApp-UI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mazdon9&repo=MovieApp-UI&theme=nightowl&bg_color=220a28&title_color=c56a90&text_color=ffffff&hide_border=false" alt="Movie App UI" />
+  <a href="https://github.com/mazdon9/Todo-with-Resful-API-Provider-Hive">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mazdon9&repo=Todo-with-Resful-API-Provider-Hive&theme=nightowl&bg_color=220a28&title_color=c56a90&text_color=ffffff&hide_border=false" alt="Todo App with RESTful API & Hive" />
   </a>
 </p>
 
