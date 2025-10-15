@@ -66,21 +66,16 @@ A self-taught mobile developer passionate about building clean, responsive apps 
 <!-- 📊 GitHub Stats -->
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
-<div align="center">
-
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
   <a href="https://github.com/mazdon9">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=mazdon9&show_icons=true&theme=nightowl&rank_icon=github" alt="GitHub Stats" />
   </a>
-
   <a href="https://github.com/mazdon9">
     <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mazdon9&theme=nightowl" alt="Repos per Language" />
   </a>
-
   <a href="https://github.com/mazdon9">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazdon9&layout=compact&theme=nightowl" alt="Top Languages" />
   </a>
-
-</div>
 
 
 ---
