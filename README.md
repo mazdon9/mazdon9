@@ -53,11 +53,23 @@ A self-taught mobile developer passionate about building clean, responsive apps 
 <!--GitHub Stats Section-->
 <!-- 📊 GitHub Stats -->
 <h2 align="center">📊 GitHub Stats 📊</h2>
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mazdon9&show_icons=true&theme=nightowl&rank_icon=github" alt="GitHub Stats" />
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mazdon9&theme=nightowl" alt="Repos per Language" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazdon9&layout=compact&theme=nightowl" alt="Top Languages" />
-</p>
+
+<div align="center">
+
+  <a href="https://github.com/mazdon9">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=mazdon9&show_icons=true&theme=nightowl&rank_icon=github" alt="GitHub Stats" />
+  </a>
+
+  <a href="https://github.com/mazdon9">
+    <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mazdon9&theme=nightowl" alt="Repos per Language" />
+  </a>
+
+  <a href="https://github.com/mazdon9">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazdon9&layout=compact&theme=nightowl" alt="Top Languages" />
+  </a>
+
+</div>
+
 
 ---
 <!--Contribution Graph-->
