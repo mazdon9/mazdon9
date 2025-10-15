@@ -64,22 +64,55 @@ A self-taught mobile developer passionate about building clean, responsive apps 
 
 ---
 <!--Contribution Graph-->
+<!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mazdon9&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" alt="mazdon9 contribution graph" />
+  <a href="https://github.com/mazdon9">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mazdon9&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=true&hide_border=false" alt="mazdon9 contribution graph"/>
+  </a>
 </p>
-
----
 
 <h2 align="center">🔝 Top Contributed Repositories</h2>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mazdon9&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=mazdon9&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
 </p>
+
 ---
+
+
+<!--Pinned Projects Section-->
+<h2 align="center">📌 ᴍʏ ꜰᴇᴀᴛᴜʀᴇᴅ ᴘʀᴏᴊᴇᴄᴛꜱ 📦</h2>
+
+<p align="center">
+  <!-- Project 1 -->
+  <a href="https://github.com/mazdon9/Groceries_App_UI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mazdon9&repo=Groceries_App_UI&theme=nightowl&bg_color=220a28&title_color=c56a90&text_color=ffffff&hide_border=false" alt="Groceries App UI" />
+  </a>
+  <!-- Project 2 -->
+  <a href="https://github.com/mazdon9/Crypto-Exchange-App-Mobile">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mazdon9&repo=Crypto-Exchange-App-Mobile&theme=nightowl&bg_color=220a28&title_color=c56a90&text_color=ffffff&hide_border=false" alt="Crypto Exchange App" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Project 3 -->
+  <a href="https://github.com/mazdon9/Portfolio_Flutter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mazdon9&repo=Portfolio_Flutter&theme=nightowl&bg_color=220a28&title_color=c56a90&text_color=ffffff&hide_border=false" alt="Portfolio Flutter" />
+  </a>
+  <!-- Project 4 -->
+  <a href="https://github.com/mazdon9/MovieApp-UI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mazdon9&repo=MovieApp-UI&theme=nightowl&bg_color=220a28&title_color=c56a90&text_color=ffffff&hide_border=false" alt="Movie App UI" />
+  </a>
+</p>
+
+
+---
+
 <!--Footer-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" alt="Footer Wave"/>
 </p>
+
 
