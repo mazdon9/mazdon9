@@ -1,13 +1,10 @@
-<!--Banner-->
-![Mazdon9 Banner Image](./banner.png)
 
-<!--Mascot Image (right corner)-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Night Owl Mascot">
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴍᴀɴʜ ᴋɪᴇ̣̂ᴛ!  
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Mạnh Kiệt!  
 *Mobile Developer / Flutter Enthusiast*
 <br />
 
