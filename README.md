@@ -25,9 +25,7 @@ A self-taught mobile developer passionate about building clean, responsive apps 
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://discord.gg/manhkiet_" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
-  <a href="https://www.facebook.com/thenamemyis/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/manhkiet-mazdon9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@Darkcore001" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
   <a href="mailto:chemanhkiett@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -35,20 +33,34 @@ A self-taught mobile developer passionate about building clean, responsive apps 
 
 <!--Tech Stack-->
 <h2 align="center">💻 Tᴇᴄʜ Sᴛᴀᴄᴋ</h2>
+
 <p align="center">
+  <!-- Core -->
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
+  <!-- Flutter Ecosystem -->
+  <img src="https://img.shields.io/badge/Bloc-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Provider-%23039BE5.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hive-%23FFB300.svg?style=for-the-badge&logo=hive&logoColor=white"/>
+
+  <!-- Backend & APIs -->
+  <img src="https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+  <!-- Design & Tools -->
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
 
----
+  <!-- Dev Tools -->
+  <img src="https://img.shields.io/badge/Cursor%20IDE-%2300B4D8.svg?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 <!--GitHub Stats Section-->
 <!-- 📊 GitHub Stats -->
@@ -97,13 +109,14 @@ A self-taught mobile developer passionate about building clean, responsive apps 
 
 <p align="center">
   <!-- Project 1 -->
-  <a href="https://github.com/mazdon9/Groceries_App_UI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mazdon9&repo=Groceries_App_UI&theme=nightowl&bg_color=220a28&title_color=c56a90&text_color=ffffff&hide_border=false" alt="Groceries App UI" />
-  </a>
-
-  <!-- Project 2 -->
+  
   <a href="https://github.com/mazdon9/Crypto-Exchange-App-Mobile">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mazdon9&repo=Crypto-Exchange-App-Mobile&theme=nightowl&bg_color=220a28&title_color=c56a90&text_color=ffffff&hide_border=false" alt="Crypto Exchange App" />
+  </a>
+  <!-- Project 2 -->
+
+  <a href="https://github.com/mazdon9/Groceries_App_UI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mazdon9&repo=Groceries_App_UI&theme=nightowl&bg_color=220a28&title_color=c56a90&text_color=ffffff&hide_border=false" alt="Groceries App UI" />
   </a>
 </p>
 
